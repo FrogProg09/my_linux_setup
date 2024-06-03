@@ -1,0 +1,6 @@
+I also use zsh for my terminal. I use it because I can change it a lot,
+what i did is:
+
+installed "OhMyZsh" so that it looks better.
+installed actually usable autocomplete.
+and also installed some PowerLevel110K package for status bar in terminal.
