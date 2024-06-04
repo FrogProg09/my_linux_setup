@@ -1,3 +1,5 @@
+" this is file for github 
+
 " just some basic settings for comfortable usage of neovim
 
 :set number
@@ -31,6 +33,9 @@ call plug#end() " end of plugins input
 
 :colorscheme minimalist " sets minimalist theme for nvim
 let g:airline_theme='minimalist' " sets minimalist theme for airline plugin
+
+" opens nerdtree with ctrl+t
+:map <C-t> :NERDTreeToggle<CR> 
 
 " Things for autocomplition in c++ and not only! 
 " It is for coc plugin, if someone would like to do it, you can just copy the
