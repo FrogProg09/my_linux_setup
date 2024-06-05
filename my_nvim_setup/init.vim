@@ -28,7 +28,9 @@ call plug#begin() " start of plugins input
   Plug 'https://github.com/preservim/tagbar' " Tagbar for code navigation
   Plug 'neoclide/coc.nvim', {'branch': 'release'}
   Plug 'ThePrimeagen/vim-be-good' " game inside the Neovim
-  
+  Plug 'psliwka/vim-smoothie' " editing scroll in neovim
+
+
 call plug#end() " end of plugins input
 
 :colorscheme minimalist " sets minimalist theme for nvim
