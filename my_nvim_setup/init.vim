@@ -29,6 +29,7 @@ call plug#begin() " start of plugins input
   Plug 'neoclide/coc.nvim', {'branch': 'release'}
   Plug 'ThePrimeagen/vim-be-good' " game inside the Neovim
   Plug 'psliwka/vim-smoothie' " editing scroll in neovim
+  Plug 'xiyaowong/transparent.nvim' " makes nvim transparent
 
 
 call plug#end() " end of plugins input
